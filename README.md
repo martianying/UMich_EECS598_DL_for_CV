@@ -2,6 +2,9 @@
 
 ## What is it?
 
+## nbviewer version
+[Pytorch101](https://nbviewer.jupyter.org/github/martianying/UMich_EECS598_DL_for_CV/blob/main/A1/pytorch101.ipynb)
+[KNN](https://nbviewer.jupyter.org/github/martianying/UMich_EECS598_DL_for_CV/blob/main/A1/knn.ipynb)
 
 ## Credits
 I wrote all codes that are necessary for passing the assignment, and others, unless specified otherwise, are all taken from the [course](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html).
